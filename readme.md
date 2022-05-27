@@ -311,4 +311,5 @@ Use parameters for Figures 3C, 3D, 5C, 5D, 9C1, or 9C2  as above and add `/neuro
 | sinGstim.mod      | module for sinusoidal conductance modulation     |
 | sinIstim.mod      | module for sinusoidal current modulation         (wasn't used in the paper) |
  
- 
+## Changelog
+2022-05: Updated MOD files to contain valid C++ and be compatible with the upcoming versions 8.2 and 9.0 of NEURON.
